@@ -1,0 +1,19 @@
+{
+  "name": "weblink-test",
+  "version": "1.0.0",
+  "description": "### Реализуйте автозаполнение веб-формы Цель задания - продемонстрировать ваши профессиональные навыки и подход к реализации.",
+  "main": "fill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymMakevytss/weblink-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymMakevytss/weblink-test/issues"
+  },
+  "homepage": "https://github.com/VadymMakevytss/weblink-test#readme"
+}
