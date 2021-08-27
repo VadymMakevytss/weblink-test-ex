@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VadymMakevytss/weblink-test/issues"
   },
-  "homepage": "https://github.com/VadymMakevytss/weblink-test#readme"
+  "homepage": "https://github.com/VadymMakevytss/weblink-test#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
